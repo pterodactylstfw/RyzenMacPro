@@ -16,3 +16,6 @@ Issues in macOS:
 Issues in Windows 11:
 -Fast Startup must be turned off so the PC can shut down properly;
 -Motherboard seen as MacPro 7,1, can be solved through the config.plist, but not a problem for me.
+
+![My PC](https://github.com/pterodactylstfw/RyzenMacPro/assets/93159473/d0094320-ce90-49aa-96d6-8d54d747db6c)
+
