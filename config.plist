@@ -207,6 +207,8 @@
 			<true/>
 			<key>EnableWriteUnprotector</key>
 			<false/>
+			<key>FixupAppleEfiImages</key>
+			<false/>
 			<key>ForceBooterSignature</key>
 			<false/>
 			<key>ForceExitBootServices</key>
@@ -1543,13 +1545,13 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>XXXXXXXXXXXXXXXXXXXXX</string>
+			<string>F5K112500GUK3F71H</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>AAAAAAAA</data>
+			<data>LPBdJO2a</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1557,9 +1559,9 @@
 			<key>SystemProductName</key>
 			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>XXXXXXXXXXX</string>
+			<string>F5KFGGZCP7QM</string>
 			<key>SystemUUID</key>
-			<string>XXXXXXXXXXXXXXXXXXXXXXXXXX</string>
+			<string>99C247D1-AF12-4CE7-9443-54D68C6877C8</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
