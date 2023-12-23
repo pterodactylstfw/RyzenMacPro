@@ -10,6 +10,9 @@ The PC's specs are:
 <p>SSD used for macOS: ADATA SU650 480 GB</p>
 <p>SSD used for Windows 11: Kingston NV2 M.2 250 GB</p>
 
+<p>I use macOS Sonoma 14 right now, and I usually upgrade right when a new update appears.</p>
+<p>Also, the Mac I am emulating is The Mac Pro 2019 with the Intel Chip (MacPro7,1).</p>
+
 Issues in macOS:
 <ul>
   <li>Nothing right now.</li>
